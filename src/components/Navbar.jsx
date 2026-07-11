@@ -18,7 +18,7 @@ const menu = [
     label: "Projects",
     children: [
       { label: "Project Poshan", to: "/projects/poshan" },
-      { label: "Project Gyaan", to: "/projects/gyaan" },
+      { label: "Project Gyaanban", to: "/projects/gyaan" },
       { label: "Project Sakhi", to: "/projects/sakhi" },
       { label: "Project Swasth", to: "/projects/swasth" },
       { label: "Project Pashu", to: "/projects/pashu" },
